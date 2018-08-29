@@ -16,6 +16,7 @@ body {
 	width: 100%;
 	max-width: 1020px;
 	min-width: 640px;
+	/* color: red */
 }
 
 body > header {
@@ -60,3 +61,14 @@ body > footer {
 	width: 100%;
 	clear: left;
 }
+
+
+
+/* p {
+	color: chartreuse
+} */
+
+/* selector {
+	property: value
+ } */
+
